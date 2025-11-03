@@ -1,2 +1,2 @@
 # X-O-Game-Site
-X&amp;O Game with HTML CSS JS
+X&amp;O Game with HTML & CSS & JS
